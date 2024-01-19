@@ -15,16 +15,23 @@ You also get the feature to customize the player name to make it more personaliz
 
 To start the game, simply pick a level of difficulty of your choice and click on "Start Challenge" 
 
+
 The game tile will notify you about the timer.
 ![image](https://github.com/manu-822/Almost-Final-Countdown/blob/main/images/timer-start.png)
+
+
 
 
 If you stop the timer within the time limit, you get assigned a score depending on how close to the target time you stopped.
 ![image](https://github.com/manu-822/Almost-Final-Countdown/blob/main/images/your-score.png)
 
 
+
+
 If the timer expires, you get a YOU LOST! prompt on the screen. 
 ![image](https://github.com/manu-822/Almost-Final-Countdown/blob/main/images/you-lost.png)
+
+
 
 
 ## Installation
